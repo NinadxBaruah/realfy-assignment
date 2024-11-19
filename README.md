@@ -6,10 +6,12 @@ A full-stack User Management application using Node.js, Firebase Firestore, and 
 ## Deployed Application
 - Live URL: [https://ninadbaruah.me/projects/intern/2](https://ninadbaruah.me/projects/intern/2)
 
-## Video Demo
-- Frontend Demonstration: [Frontend Demo](./public/videos/frontend.mp4)
-- API Testing with Postman: [API test (POST MEN)](/public/videos/demo2.mp4)
 
+### Frontend Video Demo
+<video src="./public/videos/frontend.mp4" controls width="600" muted="false"></video>
+
+### API Testing with Postman Video Demo
+<video src="./public/videos/postmen.mp4" controls width="600" muted="false"></video>
 ## Prerequisites
 - Node.js (v14+)
 - Firebase Account
