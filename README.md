@@ -8,7 +8,7 @@ A full-stack User Management application using Node.js, Firebase Firestore, and 
 
 
 ### Frontend Video Demo
-<video src="./public/videos/frontend.mp4" controls width="600" muted="false"></video>
+<video src="https://ninadbaruah.me/videos/tic-tac-toe-project.mp4" controls width="600" muted="false"></video>
 
 ### API Testing with Postman Video Demo
 <video src="./public/videos/postmen.mp4" controls width="600" muted="false"></video>
