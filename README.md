@@ -4,14 +4,15 @@
 A full-stack User Management application using Node.js, Firebase Firestore, and vanilla JavaScript for CRUD operations.
 
 ## Deployed Application
-- Live URL: [https://ninadbaruah.me/projects/intern/2](https://ninadbaruah.me/projects/intern/2)
-
+- Live URL: [Link](https://ninadbaruah.me/projects/intern/2)
+- video link:[frontend](https://ninadbaruah.me/videos/frontend.mp4) [API test](https://ninadbaruah.me/videos/postmen.mp4) 
+### API Testing with Postman Video Demo
+<video src="https://github.com/user-attachments/assets/7ecd7c19-44fb-4ac0-986c-cbb79d3f55f1" controls width="600" muted="false"></video>
 
 ### Frontend Video Demo
-<video src="https://ninadbaruah.me/videos/tic-tac-toe-project.mp4" controls width="600" muted="false"></video>
+<video src="https://github.com/user-attachments/assets/7a9b5f59-9ea8-49c0-95a8-688afaa2c427" controls width="600" muted="false"></video>
 
-### API Testing with Postman Video Demo
-<video src="./public/videos/postmen.mp4" controls width="600" muted="false"></video>
+
 ## Prerequisites
 - Node.js (v14+)
 - Firebase Account
